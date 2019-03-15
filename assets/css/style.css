@@ -1,0 +1,40 @@
+body {
+    background: url("../images/Train-Yard.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+tbody{
+    background-color: darkgrey;
+    border: 6px dashed #ef4907;
+    margin: .5vh 1vw;
+    padding: .8vh 1vw;
+}
+
+#submit{
+    float: right;
+	margin-top: 1.5vh;
+	box-shadow: -8px -8px -8px rgba(0,0,0, 0.5);
+	transition: width 3s;
+	cursor: pointer;
+}
+
+form{
+    background-color: darkgrey;
+    border: 6px dashed #ef4907;
+    margin: .5vh 1vw;
+    padding: .8vh 1vw;
+}
+
+h4{
+    margin-top: 3vh;
+    margin-bottom: 1vh;
+    color: rgb(227, 238, 176);
+
+}
+
+th{
+    margin-top: 3vh;
+    margin-bottom: 1vh;
+    color: rgb(227, 238, 176);
+
+}
